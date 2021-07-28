@@ -1,0 +1,27 @@
+body{
+    background-image: url(http://images.fanpop.com/images/image_uploads/Cool-Background-wallpapers-327581_1024_768.jpg);
+border-image-repeat: stretch;
+}
+#player1_heading{
+    font-size: x-large;
+    font-family:'Times New Roman', Times, serif ;
+    color: white;
+}
+#player2_heading{
+    font-size: x-large;
+    font-family:'Times New Roman', Times, serif ;
+    color: white;
+}
+#player1name{
+    background-color:lightslategray ;
+
+}
+#player2name{
+    background-color:lightslategray ;
+
+}
+#login-button{
+    font-size: large;
+    font-family: fantasy;
+    background-color:salmon ;
+}
